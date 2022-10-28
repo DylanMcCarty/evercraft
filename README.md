@@ -1,6 +1,6 @@
 # EVERCRAFT 
 
-# This is a project to create and test character classes against eachother and create a D&D-like game 
+### This is a project to create and test character classes against eachother and create a D&D-like game 
 
 -------
 The goal was to make a game that can play classes against eachother and have outcomes 
